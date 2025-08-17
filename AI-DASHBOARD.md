@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**deriv-com/derivatives-trader**
-📅 Last updated: 2025-08-14 07:09:31 UTC • 🔄 Tracking merged PRs to main/master
+**jim-deriv/derivatives-trader**
+📅 Last updated: 2025-08-17 06:30:22 UTC • 🔄 Tracking merged PRs to main/master
 
 </div>
 
